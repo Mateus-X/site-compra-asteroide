@@ -1,0 +1,11 @@
+{
+  "name": "site-compra-asteroide",
+  "version": "1.0.0",
+  "description": "Um site de compras de asteroides",
+  "main": "index.js",
+  "author": "Mateus Xavier e Eduardo Alberico",
+  "license": "MIT",
+  "dependencies": {
+    
+  }
+}
